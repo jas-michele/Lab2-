@@ -1,0 +1,34 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: 'Figtree', sans-serif;
+}
+
+.card {
+    box-shadow: 10px 10px 0;
+}
+
+.card-title {
+    background-color: hsl(47, 88%, 63%);
+    width: fit-content;
+    font-weight: 800;
+    font-size: 14px;
+    padding: 6px;
+}
+
+.card-text {
+    color: hsl(0, 0%, 7%);
+    font-size: 12px;
+}
+
+h2 {
+    margin-top: 5px;
+    font-weight: 800;
+}
+
+.ptext {
+    color: hsl(0, 0%, 42%);
+}
+
+.name {
+    font-weight: 800;
+}

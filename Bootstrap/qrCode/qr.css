@@ -1,0 +1,17 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    
+}
+
+.small-text {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(216, 15%, 48%);
+}
+
+.htext {
+    font-weight: 700;
+    color: sl(218, 44%, 22%);
+}
+
